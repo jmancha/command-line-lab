@@ -1,0 +1,36 @@
+#livingRoom {
+
+	background: grey;
+	width: 800px;
+	height: 800px;
+}
+.box {
+
+	background-color: red;
+	width:  100px;
+	height: 100px;
+}
+#box1 {
+
+	position: absolute; 
+	height: 100px
+	background: red;
+}
+#box2 {
+
+	float: right; /*get everything away from right*/ 
+	background: green;
+
+}
+#box3 {
+
+	width:  100px;
+	height: 100px;
+	margin: 100px;
+}	
+#box4 {
+
+	width:  100px;
+	height: 100px;
+	margin: 100px;
+}
